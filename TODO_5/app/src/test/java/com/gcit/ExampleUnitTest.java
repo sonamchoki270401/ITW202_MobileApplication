@@ -1,4 +1,4 @@
-package com.gcit.todo_5;
+package com.gcit;
 
 import org.junit.Test;
 
