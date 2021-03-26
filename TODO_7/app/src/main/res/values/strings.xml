@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO_7</string>
+    <string name="Zero">0</string>
+    <string name="hint">This is edit text</string>
+</resources>
