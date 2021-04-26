@@ -30,7 +30,4 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onSaveInstanceState(Bundle bundle){
         super.onSaveInstanceState(bundle);
-        bundle.putInt("count",j);
-    }
-
-}
+        bundle.putInt("count"
