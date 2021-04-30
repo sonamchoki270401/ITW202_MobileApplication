@@ -5,41 +5,16 @@
       <config />
     </shared>
   </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="031e6004-aec1-4d7e-9228-046e989da00a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TODO_12/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TODO/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="21e07e53-2cc3-4c8b-8af4-527013ffe28a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TODO/TODO_11/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[emulator-5554]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -48,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1rsFg2da3FH8Wq1ivtpZsUXvNhX" />
+  <component name="ProjectId" id="1rtcN77d4bSVP4w5RxKJxY4o8JW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,13 +32,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1619757016635" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1619798821305" />
     <property name="settings.editor.selected.configurable" value="experimental" />
-  </component>
-  <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.example.todo_11" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -136,24 +106,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="031e6004-aec1-4d7e-9228-046e989da00a" name="Default Changelist" comment="" />
-      <created>1619756997836</created>
+      <changelist id="21e07e53-2cc3-4c8b-8af4-527013ffe28a" name="Default Changelist" comment="" />
+      <created>1619798783300</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619756997836</updated>
+      <updated>1619798783300</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/todo_11/MainActivity.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
