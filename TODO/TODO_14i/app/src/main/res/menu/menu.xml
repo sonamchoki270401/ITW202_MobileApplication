@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="100"
+        android:title="Contact"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/action_order"
+        android:orderInCategory="10"
+        android:title="Order"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/action_favorite"
+        android:title="Favourite"
+        android:orderInCategory="30"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_shopping"
+        android:title="Shopping"
+        android:orderInCategory="60"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        app:showAsAction="always"/>
+</menu>
