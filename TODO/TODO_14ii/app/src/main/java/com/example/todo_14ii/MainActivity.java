@@ -15,14 +15,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
     public void onClickShowAlert(View view) {
         AlertDialog.Builder myAlertBuilder = new AlertDialog.Builder(MainActivity.this);
         myAlertBuilder.setTitle("Alert");
         myAlertBuilder.setMessage("Click OK to continue, or Cancel to stop :");
         myAlertBuilder.setPositiveButton("OK", new DialogInterface.OnClickListener(){
-                @Override
-                public void onClick(DialogInterface dialog, int which){
+            @Override
+            public void onClick(DialogInterface dialog, int which){
                 Toast.makeText(getApplicationContext(),"Pressed Ok", Toast.LENGTH_SHORT).show();
             }
         });
@@ -35,5 +34,4 @@ public class MainActivity extends AppCompatActivity {
         });
         myAlertBuilder.show();
     }
-
 }
