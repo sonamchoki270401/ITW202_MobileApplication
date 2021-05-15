@@ -6,24 +6,24 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/RecycleView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout_editor_absoluteX="29dp"
-        tools:layout_editor_absoluteY="35dp" />
+        tools:layout_editor_absoluteY="35dp"/>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-       android:id="@+id/floating"
+        android:id="@+id/floating"
         android:layout_width="66dp"
         android:layout_height="53dp"
         android:src="@drawable/ic_baseline_add_circle_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.857"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.915"
+        app:layout_constraintVertical_bias="0.935"
         tools:ignore="MissingConstraints">
 
     </com.google.android.material.floatingactionbutton.FloatingActionButton>
