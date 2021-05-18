@@ -1,14 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TODO_18</string>
     <string-array name="Sport_titles">
-        <item>Baseball</item>
-        <item>Badminton</item>
-        <item>Basketball</item>
+        <item>ནཱ་གི་འཚོལ་མི་ཡོངས་ག</item>
+        <item>འབྲེལ་འཆར</item>
+        <item>་ཤོག་འདི་མིན་འདུ</item>
         <item>Bowling</item>
         <item>Cycling</item>
         <item>Golf</item>
         <item>Running</item>
-        <item>Football</item>
+        <item>Soccer</item>
         <item>Swimming</item>
         <item>Table Tennis</item>
         <item>Tennis</item>
@@ -22,7 +22,7 @@
         <item>Here is some Cycling news</item>
         <item>Here is some Golf news</item>
         <item>Here is some Running news</item>
-        <item>Here is some Football news</item>
+        <item>Here is some Soccer news</item>
         <item>Here is some Swimming news</item>
         <item>Here is some Table Tennis news</item>
         <item>Here is some Tennis news</item>
