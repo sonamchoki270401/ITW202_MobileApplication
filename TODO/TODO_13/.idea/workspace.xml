@@ -28,6 +28,14 @@
       <change afterPath="$PROJECT_DIR$/../TODO_12/app/src/main/java/com/example/todo_12/orderActivity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TODO_12/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TODO_12/app/src/main/res/layout/activity_order.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values-dz-rBT/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values-en-rUS/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values-land/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values-sw600dp-land/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values-sw600dp/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values-sw600dp/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TODO_18/app/src/main/res/values/styles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />

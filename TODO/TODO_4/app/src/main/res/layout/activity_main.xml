@@ -7,62 +7,60 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView2"
-        android:layout_width="272dp"
-        android:layout_height="54dp"
-        android:background="#4CAF50"
-        android:gravity="center"
+        android:id="@+id/MainActivity_TextView01"
+        android:layout_width="356dp"
+        android:layout_height="30dp"
+        android:background="@color/Green"
         android:text="Reply Received"
-        android:textSize="20sp"
-        android:textStyle="bold|italic"
+        android:gravity="center"
+        android:textColor="@color/black"
         android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.194"
+        app:layout_constraintHorizontal_bias="0.441"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.091" />
+        app:layout_constraintVertical_bias="0.064" />
 
     <TextView
-        android:id="@+id/textView3"
-        android:layout_width="339dp"
-        android:layout_height="49dp"
+        android:id="@+id/MainActivity_TextView02"
+        android:layout_width="347dp"
+        android:layout_height="26dp"
         android:gravity="center"
-        android:text="@string/TextView"
-        android:textSize="20sp"
-        android:textStyle="bold|italic"
-        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.441"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.193" />
+        app:layout_constraintVertical_bias="0.143" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/sender_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="32dp"
+        android:onClick="sender"
         android:text="SEND"
-        android:onClick="SEND"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.835"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.893" />
+        app:layout_constraintVertical_bias="0.976" />
 
     <EditText
-        android:id="@+id/editText1"
-        android:layout_width="225dp"
-        android:layout_height="54dp"
-        android:layout_marginTop="604dp"
+        android:id="@+id/sender_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:ems="10"
         android:gravity="start|top"
-        android:hint="@string/hint"
         android:inputType="textMultiLine"
+        android:hint="Enter the text"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.258"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
