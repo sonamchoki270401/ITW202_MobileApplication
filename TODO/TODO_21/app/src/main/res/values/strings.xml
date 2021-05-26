@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO_21</string>
+    <string name="ready_to_start_work">I am ready to start work!</string>
+    <string name="start_task">START TASK</string>
+</resources>
