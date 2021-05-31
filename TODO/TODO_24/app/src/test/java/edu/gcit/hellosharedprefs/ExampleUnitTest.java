@@ -1,4 +1,4 @@
-package com.example.todo_24;
+package edu.gcit.hellosharedprefs;
 
 import org.junit.Test;
 

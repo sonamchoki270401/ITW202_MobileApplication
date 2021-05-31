@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "TODO_24"
+rootProject.name = "HelloSharedPrefs"

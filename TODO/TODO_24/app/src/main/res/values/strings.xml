@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TODO_24</string>
+    <string name="app_name">HelloSharedPrefs</string>
 
 
     <!-- Button label for blue button -->
@@ -14,7 +14,7 @@
     <!-- Button label for black button -->
     <string name="black_button">Black</string>
 
-    <!-- Default string for count textview -->
+    <!-- Default string for count TextView -->
     <string name="default_count">0</string>
 
     <!-- Button label for Count button -->

@@ -1,4 +1,4 @@
-package com.example.todo_24;
+package edu.gcit.hellosharedprefs;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.todo_24", appContext.getPackageName());
+        assertEquals("edu.gcit.hellosharedprefs", appContext.getPackageName());
     }
 }
